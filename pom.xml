@@ -10,11 +10,11 @@
     <version>SNAPSHOT</version>
     <!-- a activer pour avoir codjo:release-test-->
     <!-- START SNIPPET: super-pom -->
-    <!--<parent>-->
-        <!--<groupId>net.codjo.pom</groupId>-->
-        <!--<artifactId>codjo-pom-application</artifactId>-->
-        <!--<version>SNAPSHOT</version>-->
-    <!--</parent>-->
+    <parent>
+        <groupId>net.codjo.pom</groupId>
+        <artifactId>codjo-pom-application</artifactId>
+        <version>SNAPSHOT</version>
+    </parent>
     <!--  END SNIPPET: super-pom -->
     <!--
     | Project Information
