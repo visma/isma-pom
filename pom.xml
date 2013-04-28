@@ -241,11 +241,11 @@
                         <encoding>windows-1252</encoding>
                     </configuration>
                 </plugin>
-                <plugin>
-                    <groupId>org.codehaus.mojo</groupId>
-                    <artifactId>sonar-maven-plugin</artifactId>
-                    <version>2.0</version>
-                </plugin>
+                <!--<plugin>-->
+                    <!--<groupId>org.codehaus.mojo</groupId>-->
+                    <!--<artifactId>sonar-maven-plugin</artifactId>-->
+                    <!--<version>2.0</version>-->
+                <!--</plugin>-->
                 <plugin>
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>cobertura-maven-plugin</artifactId>
